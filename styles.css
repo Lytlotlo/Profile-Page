@@ -129,6 +129,7 @@
     align-items: center;
     width: 100%;
     height: 100vh;
+    margin-top: 50px;
     background-color: var(--Alice-blue);
   }
   
@@ -137,8 +138,8 @@
     font-weight: 200;
     font-style: italic;
     color:  var(--Liver-dogs);
-    width: 80vh;
     text-align: center;
+    width: 75%;
   }
   
   /* Projects section */
